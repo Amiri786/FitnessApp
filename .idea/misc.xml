@@ -6,9 +6,10 @@
         <entry key="..\:/Users/admin/AndroidStudioProjects/APP_Projekt/app/src/main/res/layout/activity_home2.xml" value="0.33425925925925926" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/APP_Projekt/app/src/main/res/layout/activity_login.xml" value="0.33425925925925926" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/APP_Projekt/app/src/main/res/layout/activity_main.xml" value="0.33425925925925926" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/FitnessApp/app/src/main/res/layout/activity_home2.xml" value="0.34479166666666666" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
